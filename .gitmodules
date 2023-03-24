@@ -13,8 +13,3 @@
 	url = https://github.com/cran/horseshoe
 	shallow = true
 	registered = true
-[submodule "mergedblocks"]
-	path = mergedblocks
-	url = https://github.com/cran/mergedblocks
-	shallow = true
-	registered = true
