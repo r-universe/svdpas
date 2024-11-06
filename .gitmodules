@@ -8,3 +8,6 @@
 [submodule "horseshoe"]
 	path = horseshoe
 	url = https://github.com/cran/horseshoe
+[submodule "mergedblocks"]
+	path = mergedblocks
+	url = https://github.com/cran/mergedblocks
